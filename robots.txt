@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimoviezek.github.io/sitemap.xml
